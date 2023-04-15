@@ -1,2 +1,2 @@
-# strategypattern
-Simple example of the strategy pattern
+# Strategy Pattern
+Simple example of the strategy pattern.
